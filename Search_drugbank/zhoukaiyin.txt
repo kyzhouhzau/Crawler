@@ -1,0 +1,13 @@
+{'Word': 'SERMORELIN', 'Name': 'Sermorelin', 'Accession Number': 'DB00010 (BTD00033 BIOD00033) ', 'Groups': 'Approved  Withdrawn'}
+{'Word': 'UROKINASE', 'Name': 'Urokinase', 'Accession Number': 'DB00013 (BTD00030 BIOD00030) ', 'Groups': 'Approved  Investigational  Withdrawn'}
+{'Word': 'OSPA LIPOPROTEIN', 'Name': 'OspA lipoprotein', 'Accession Number': 'DB00045 (BTD00054 BIOD00054) ', 'Groups': 'Approved  Withdrawn'}
+{'Word': 'DROTRECOGIN ALFA', 'Name': 'Drotrecogin alfa', 'Accession Number': 'DB00055 (BTD00068 BIOD00068) ', 'Groups': 'Approved  Investigational  Withdrawn'}
+{'Word': 'GEMTUZUMAB OZOGAMICIN', 'Name': 'Gemtuzumab ozogamicin', 'Accession Number': 'DB00056 (BTD00077 BIOD00077) ', 'Groups': 'Approved  Investigational  Withdrawn'}
+{'Word': 'ALEFACEPT', 'Name': 'Alefacept', 'Accession Number': 'DB00092 (BTD00055 BIOD00055) ', 'Groups': 'Approved  Withdrawn'}
+{'Word': 'ABARELIX', 'Name': 'Abarelix', 'Accession Number': 'DB00106 (BTD00051 BIOD00051) ', 'Groups': 'Approved  Investigational  Withdrawn'}
+{'Word': 'ETHCHLORVYNOL', 'Name': 'Ethchlorvynol', 'Accession Number': 'DB00189 (APRD00958) ', 'Groups': 'Approved  Illicit  Withdrawn'}
+{'Word': 'TROGLITAZONE', 'Name': 'Troglitazone', 'Accession Number': 'DB00197 (APRD00488) ', 'Groups': 'Withdrawn'}
+{'Word': 'CHLOROTRIANISENE', 'Name': 'Chlorotrianisene', 'Accession Number': 'DB00269 (APRD00715) ', 'Groups': 'Withdrawn'}
+{'Word': 'ETHOXZOLAMIDE', 'Name': 'Ethoxzolamide', 'Accession Number': 'DB00311 (APRD00732 DB07727) ', 'Groups': 'Withdrawn'}
+{'Word': 'TOLCAPONE', 'Name': 'Tolcapone', 'Accession Number': 'DB00323 (APRD00445) ', 'Groups': 'Approved  Withdrawn'}
+{'Word': 'TERFENADINE', 'Name': 'Terfenadine', 'Accession Number': 'DB00342 (APRD00606) ', 'Groups': 'Withdrawn'}
