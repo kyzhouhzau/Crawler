@@ -1,0 +1,214 @@
+2,4-@dienoyl-coa reductase deficiency
+2,4-@dienoyl-coa reductase deficiency
+2-@methylbutyryl-coa dehydrogenase deficiency
+3-@ketothiolase deficiency
+3-@methylcrotonyl-coa carboxylase 1 deficiency
+3-@methylglutaconic aciduria with deafness, encephalopathy, and leigh-like syndrome
+3-@methylglutaconic aciduria with deafness, encephalopathy, and leigh-like syndrome, mild variant
+3-@methylglutaconic aciduria, type i
+3-@methylglutaconic aciduria, type v
+3-@methylglutaconic aciduria, type viii
+3@m syndrome
+46,xy gonadal dysgenesis, complete, dhh-related
+5-@oxoprolinase deficiency
+acanthocytosis due to band 3 ht
+acatalasemia, hungarian type
+acatalasemia, japanese type
+achalasia-alacrima syndrome
+achromatopisia 5
+acid phosphatase 1, soluble, a/b polymorphism of
+acne inversa, familial, 2, with dowling-degos disease
+acne inversa, familial, 2, without dowling-degos disease
+acrodysostosis 2
+acrodysostosis 2 with hormone resistance
+acrodysostosis 2 without hormone resistance
+adenocarcinoma of lung, somatic
+adrenal insufficiency, nr5a1-related
+adult i phenotype
+adult polyglucosan body neuropathy
+agammaglobulinemia 5
+aica-ribosiduria due to atic deficiency
+aids, delayed/rapid progression to
+albumin asola
+albumin b
+albumin bazzano
+albumin blenheim
+albumin casebrook
+albumin caserta
+albumin castel di sangro
+albumin catania
+albumin coari i
+albumin dublin
+albumin hawkes bay
+albumin herborn
+albumin iowa city 1
+albumin larino
+albumin maku
+albumin malmo-10
+albumin malmo-47
+albumin malmo-5
+albumin malmo-95
+albumin mexico 2
+albumin milano fast
+albumin naskapi
+albumin ortonovo
+albumin redhill
+albumin roma
+albumin rugby park
+albumin sondria
+albumin tagliacozzo
+albumin torino
+albumin tradate 2
+albumin vancouver
+albumin venezia
+albumin vibo valentia
+alcohol dependence, protection against
+alcoholism, susceptibility to
+alpha-2-macroglobulin polymorphism
+alzheimer disease 9, susceptibility to
+alzheimer disease, familial, 1
+alzheimer disease, familial, 3
+alzheimer disease, familial, 3, with spastic paraparesis
+alzheimer disease, familial, 3, with spastic paraparesis and apraxia
+alzheimer disease, familial, 3, with spastic paraparesis and unusual plaques
+alzheimer disease, familial, 3, with unusual plaques
+alzheimer disease, familial, with spastic paraparesis and unusual plaques
+alzheimer disease, late-onset, susceptibility to
+alzheimer disease, protection against
+alzheimer disease, susceptibility to
+amelogenesis imperfecta, type iiia, localized
+aminolevulinate dehydratase, alad*1/alad*2 polymorphism
+amyotrophic lateral sclerosis 10 with or without frontotemporal dementia and with tdp43 inclusions
+amyotrophic lateral sclerosis 10 without frontotemporal dementia and with tdp43 inclusions
+amyotrophic lateral sclerosis 15 with frontotemporal dementia
+amyotrophic lateral sclerosis, susceptibility to
+amyotrophic lateral sclerosis, susceptibility to, 24
+analbuminemia baghdad
+analbuminemia roma
+analbuminemia vancouver
+anemia, sideroblastic, 3
+angioedema induced by ace inhibitors, susceptibility to
+angioedema, hereditary, type i, autosomal recessive
+angioedema, hereditary, type ii
+aniridia
+anterior segment dysgenesis 3, axenfeld subtype
+anterior segment dysgenesis 3, iridogoniodysgenesis subtype
+anterior segment dysgenesis 3, multiple subtypes
+anterior segment dysgenesis 3, rieger subtype
+anterior segment dysgenesis 6, peters anomaly subtype
+antichymotrypsin bochum 1
+antichymotrypsin bonn 1
+antichymotrypsin isehara 1
+antichymotrypsin isehara 2
+antichymotrypsin signal peptide polymorphism
+apnea, postanesthetic
+apnea, postanesthetic, due to bche, atypical-1
+apolipoprotein a-i
+apolipoprotein a-iv polymorphism, apoa4*1/apoa4*2
+apolipoprotein a-iv rare variant, apoa4*0
+apolipoprotein a-iv rare variant, apoa4*3
+apolipoprotein a-iv rare variant, apoa4*5
+apolipoprotein, type c polymorphism
+apolipoprotein, type d polymorphism
+aprt deficiency
+aprt deficiency, japanese type
+arthrogryposis, distal, type 2b
+aspartylglucosaminuria, finnish type
+asthma susceptibility 1
+asthma, aspirin-induced, susceptibility to
+asthma, susceptibility to
+asthma-related traits, susceptibility to, 7
+atrial fibrillation 15
+attention deficit-hyperactivity disorder, susceptibility to
+auditory neuropathy, autosomal recessive, 1
+auditory neuropathy, autosomal recessive, 1, temperature-sensitive
+autism, susceptibility to, 16
+autism, susceptibility to, 17
+autism, susceptibility to, x-linked 5
+autoimmune disease, susceptibility to, 6
+autoimmune thyroid disease, susceptibility to, 3
+azoospermia, nonobstructive, y-linked
+band 3 memphis
+baraitser-winter syndrome 1, atypical
+bardet-biedl syndrome 1/7, digenic
+bardet-biedl syndrome 12, modifier of
+bare lymphocyte syndrome, type ii, complementation group d
+barrett esophagus/esophageal adenocarcinoma
+bartter syndrome, type 3, with hypocalciuria
+bartter syndrome, type 4a, with sensorineural deafness
+bartter syndrome, type 4b, with sensorineural deafness
+basal cell carcinoma, somatic
+bche cynthiana
+bche johannesburg
+bche newfoundland
+bche, fluoride 1
+bche, fluoride 2
+bche, h variant
+bche, j variant
+bche, k variant
+bche, silent 1
+beta-mannosidosis
+bethlem myopathy 1, autosomal recessive
+bleeding disorder, platelet-type, 21, autosomal recessive
+blepharospasm, benign essential, susceptibility to
+blood group--ok
+bombay phenotype, classic
+bone marrow failure syndrome 4
+bone marrow failure, telomere-related, 1
+bone marrow failure, telomere-related, 2
+bradyopsia
+breast cancer, familial
+breast cancer, lobular, somatic
+breast cancer, somatic
+breast cancer, susceptibility to
+breast cancer, susceptibility to, in brca1 and brca2 carriers
+breast-ovarian cancer, familial, susceptibility to, 1
+breast-ovarian cancer, familial, susceptibility to, 2
+butyrylcholinesterase deficiency, fluoride-resistant, japanese type
+c1s deficiency
+c6 a/b polymorphism
+c6 deficiency
+c6 deficiency, subtotal
+c7 deficiency
+ca/tu alloantigen polymorphism
+capillary malformation of the lower lip, lymphatic malformation of face and neck, asymmetry of face and limbs, and partial/generalized overgrowth, somatic
+carbamoyl phosphate synthetase i deficiency
+carbonic anhydrase ii variant
+cardiac conduction defect, nonprogressive
+cardiac conduction defect, nonspecific
+cardiomyopathy and deafness
+cardiomyopathy, dilated, 1aa
+cardiomyopathy, dilated, 1mm
+cardiomyopathy, familial hypertrophic, 23
+cardiomyopathy, familial hypertrophic, 23, with or without left ventricular noncompaction
+cardiomyopathy, familial hypertrophic, 27
+cardiomyopathy, familial hypertrophic, 4, susceptibility to
+cardiomyopathy, familial restrictive, 5
+cardiomyopathy, hypertrophic
+cardiomyopathy, mitochondrial
+cataract 1 with microcornea
+cataract 1, nuclear progressive
+cataract 1, posterior subcapsular, with microcornea
+cataract 1, stellate nuclear, with microcornea
+cataract 1, zonular pulverulent
+cataract 11, total
+cataract 31, posterior polar
+cataract 6, age-related cortical
+cataract 6, congenital total
+cataract 6, posterior polar
+cataract 9, autosomal recessive
+cataract 9, multiple types, with microcornea
+cataract 9, multiple types, with or without microcornea
+cataract 9, nuclear
+cataract 9, nuclear lamellar
+cataract 9, nuclear, with microcornea
+cataract 9, total
+cataract 9, total, with microcornea, autosomal recessive
+catechol-o-methyltransferase polymorphism
+caudal regression syndrome
+cavernous malformations of cns and retina
+cayman ataxia
+centronuclear myopathy 5
+cerebellar ataxia and mental retardation with or without quadrupedal locomotion 3
+cerebral amyloid angiopathy, app-related, dutch variant
+cerebral cavernous malformations 1
